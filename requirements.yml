@@ -1,0 +1,3 @@
+- name: nginx
+  src: git+https://github.com/hoto/demo-ansible-role-nginx.git
+  version: master

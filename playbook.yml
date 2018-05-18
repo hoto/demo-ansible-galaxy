@@ -1,0 +1,6 @@
+---
+- name: playbook
+  hosts: local
+  gather_facts: no
+  roles:
+    - nginx
